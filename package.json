@@ -1,0 +1,12 @@
+{
+  "name": "carbon-trace-js",
+  "version": "1.0.0",
+  "description": "A lightweight utility to monitor website carbon footprint and data transfer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["eco-mode", "carbon-footprint", "performance", "sustainability"],
+  "author": "Megha Yadav",
+  "license": "MIT"
+}
