@@ -6,7 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["eco-mode", "carbon-footprint", "performance", "sustainability"],
-  "author": "Megha Yadav",
-  "license": "MIT"
+  "keywords": [
+    "eco-mode",
+    "carbon-footprint",
+    "performance",
+    "sustainability"
+  ],
+  "author": "Megha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coder-m4megha/carbon-trace-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Coder-m4megha/carbon-trace-js/issues"
+  },
+  "homepage": "https://github.com/Coder-m4megha/carbon-trace-js#readme"
 }
